@@ -13,6 +13,8 @@
 		E74E02982A006ABD0017E61B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74E02972A006ABD0017E61B /* ContentView.swift */; };
 		E74E029A2A006B020017E61B /* CalculatorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74E02992A006B020017E61B /* CalculatorButton.swift */; };
 		E74E029C2A006B0F0017E61B /* TotalText.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74E029B2A006B0F0017E61B /* TotalText.swift */; };
+		E74E029F2A006E3F0017E61B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E74E029E2A006E3F0017E61B /* README.md */; };
+		E74E02A12A006E590017E61B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E74E02A02A006E590017E61B /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		E74E02992A006B020017E61B /* CalculatorButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalculatorButton.swift; path = ../../../../.Trash/CalculatorButton.swift; sourceTree = "<group>"; };
 		E74E029B2A006B0F0017E61B /* TotalText.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TotalText.swift; path = ../../../../.Trash/TotalText.swift; sourceTree = "<group>"; };
 		E74E029D2A006C470017E61B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		E74E029E2A006E3F0017E61B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E74E02A02A006E590017E61B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +44,8 @@
 		E74E02662A0069F60017E61B = {
 			isa = PBXGroup;
 			children = (
+				E74E02A02A006E590017E61B /* .gitignore */,
+				E74E029E2A006E3F0017E61B /* README.md */,
 				E74E02712A0069F60017E61B /* swiftLearning */,
 				E74E02702A0069F60017E61B /* Products */,
 			);
@@ -133,6 +139,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E74E02A12A006E590017E61B /* .gitignore in Resources */,
+				E74E029F2A006E3F0017E61B /* README.md in Resources */,
 				E74E027A2A0069F70017E61B /* Preview Assets.xcassets in Resources */,
 				E74E02772A0069F70017E61B /* Assets.xcassets in Resources */,
 			);
